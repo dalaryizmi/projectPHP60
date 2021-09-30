@@ -67,7 +67,6 @@
                 <input type="reset" value="Hủy">
             </th>
         </tr>
-
     </table>
 </form>
 </body>

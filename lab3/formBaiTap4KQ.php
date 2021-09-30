@@ -47,6 +47,7 @@
         } ?>
     </p>
     <p class="">Ghi chú: <?php echo $comments ?></p>
+    <a href="javascript:window.history.back(-1);">Trở về trang trước</a>
 </body>
 
 </html>
